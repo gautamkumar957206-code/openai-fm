@@ -87,4 +87,7 @@ You are welcome to open issues or submit PRs to improve this app, however, pleas
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licen
+
+https://github.com/user-attachments/assets/ef034358-4ea4-4e21-9f54-f12a828a56ad
+
